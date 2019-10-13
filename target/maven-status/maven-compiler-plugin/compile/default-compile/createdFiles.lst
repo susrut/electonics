@@ -1,0 +1,10 @@
+Flipkart\model\Member_.class
+Flipkart\util\JSONPRequestFilter.class
+Flipkart\data\MemberRepository.class
+Flipkart\rest\MemberService.class
+Flipkart\service\MemberRegistration.class
+Flipkart\util\JSONPRequestFilter$1.class
+Flipkart\model\Member.class
+Flipkart\rest\JaxRsActivator.class
+Flipkart\util\Resources.class
+Flipkart\util\JSONPRequestFilter$1$1.class
